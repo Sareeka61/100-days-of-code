@@ -5,3 +5,6 @@
 ## Day 1:
  - Learned Operators
  - Learned about Conditional statements
+
+## Day 2:
+-Learned about loop control statements:for,do..while,while and break 
