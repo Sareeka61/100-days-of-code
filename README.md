@@ -10,4 +10,4 @@
 - Learned about loop control statements:for,do..while,while and break.
 
 ## Day 3:
-- Learned about functions : library functions & user defined functions.
+- Learned about functions: library functions & user defined functions.
