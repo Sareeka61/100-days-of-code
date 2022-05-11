@@ -11,3 +11,6 @@
 
 ## Day 3:
 - Learned about functions: library functions & user defined functions.
+
+## Day 4:
+- Learned about recursions.
