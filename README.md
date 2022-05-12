@@ -14,3 +14,6 @@
 
 ## Day 4:
 - Learned about recursions.
+
+## Day 5:
+- Learned the concept of pointers.
