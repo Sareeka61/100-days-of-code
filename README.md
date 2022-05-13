@@ -20,3 +20,6 @@
 
 ## Day 6:
 - Learned concept of arrays.
+
+## Day 7:
+-Learned about strings.
