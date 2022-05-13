@@ -17,3 +17,6 @@
 
 ## Day 5:
 - Learned the concept of pointers.
+
+## Day 6:
+- Learned concept of arrays.
