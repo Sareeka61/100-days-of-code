@@ -23,3 +23,6 @@
 
 ## Day 7:
 -Learned about strings.
+
+## Day 8:
+- Learned about strings and structures.
