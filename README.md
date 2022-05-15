@@ -22,7 +22,7 @@
 - Learned concept of arrays.
 
 ## Day 7:
--Learned about strings.
+- Learned about strings.
 
 ## Day 8:
 - Learned about strings and structures.
