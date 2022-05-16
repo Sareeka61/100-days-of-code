@@ -26,3 +26,6 @@
 
 ## Day 8:
 - Learned about strings and structures.
+
+## Day 9:
+- Learned about structures, typedef.
