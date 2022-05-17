@@ -29,3 +29,8 @@
 
 ## Day 9:
 - Learned about structures, typedef.
+
+## Day 10:
+- Learned about file i/o and dynamic memory alloaction.
+I completed all necessary concepts of C today.
+Resource: https://youtu.be/irqbmMNs2Bo
