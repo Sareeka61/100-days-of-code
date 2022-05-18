@@ -34,3 +34,7 @@
 - Learned about file i/o and dynamic memory alloaction.
 I completed all necessary concepts of C today.
 Resource: https://youtu.be/irqbmMNs2Bo
+
+## Day 11:
+- Learned about HTML basics properly
+- Looked at a homework qn of C 
