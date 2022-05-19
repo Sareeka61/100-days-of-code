@@ -31,10 +31,13 @@
 - Learned about structures, typedef.
 
 ## Day 10:
-- Learned about file i/o and dynamic memory alloaction.
+- Learned about file i/o and dynamic memory allocation.
 I completed all necessary concepts of C today.
 Resource: https://youtu.be/irqbmMNs2Bo
 
 ## Day 11:
-- Learned about HTML basics properly
-- Looked at a homework qn of C 
+- Learned about HTML basics properly.
+- Looked at a homework qn of C.
+
+## Day 12:
+- Did few questions of C.
