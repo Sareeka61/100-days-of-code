@@ -41,3 +41,6 @@ Resource: https://youtu.be/irqbmMNs2Bo
 
 ## Day 12:
 - Did few questions of C.
+
+## Day 13:
+- Did few questions of C.
