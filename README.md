@@ -44,3 +44,6 @@ Resource: https://youtu.be/irqbmMNs2Bo
 
 ## Day 13:
 - Did few questions of C.
+
+## Day 14:
+- Made rock paper scissor game in C.
