@@ -47,3 +47,7 @@ Resource: https://youtu.be/irqbmMNs2Bo
 
 ## Day 14:
 - Made rock paper scissor game in C.
+
+## Day 15:
+- Practiced some questions to clear out concepts of datatypes.
+
